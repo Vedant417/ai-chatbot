@@ -1,4 +1,4 @@
 ## Project Link 
 https://vedant417.github.io/ai-chatbot/
-## Project Description
+## Project Details
 I have created an AI chatbot using HTML, CSS, and JavaScript, powered by Gemini AI for Developers. This chatbot is designed to provide users with a variety of helpful features, such as telling the current time for any location around the world, delivering the latest news updates, showing real-time weather information, and assisting with coding-related questions. With its intuitive interface and smart capabilities, it serves as a versatile digital assistant that can support both everyday needs and developer tasks efficiently.
